@@ -1,0 +1,10 @@
+insert into author (name, particularity, hasParticularity, birthDate) values ('Jerred', 'primis in faucibus orci luctus et ultrices posuere cubilia', true, '2022-02-19');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Capelow', 'sed vel enim sit amet nunc viverra', true, '2022-08-30');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Gatherer', 'a pede posuere nonummy integer non velit donec', false, '2022-10-27');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Oxenden', 'libero rutrum ac lobortis vel dapibus at', false, '2022-11-19');
+insert into author (name, particularity, hasParticularity, birthDate) values ('ducarme', 'ultrices vel augue vestibulum ante ipsum primis in', true, '2022-03-27');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Ciardo', 'quam turpis adipiscing lorem vitae mattis nibh ligula nec', false, '2022-11-20');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Low', 'varius nulla facilisi cras non velit nec nisi vulputate', false, '2022-08-22');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Sandels', 'est quam pharetra magna ac consequat metus sapien ut', false, '2022-03-29');
+insert into author (name, particularity, hasParticularity, birthDate) values ('Smallridge', 'odio odio elementum eu interdum eu tincidunt in leo maecenas', true, '2022-08-10');
+insert into author (name, particularity, hasParticularity, birthDate) values ( 'Bollum', 'quam a odio in hac habitasse', false, '2022-01-31');
