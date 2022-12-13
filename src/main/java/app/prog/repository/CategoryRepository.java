@@ -1,9 +1,8 @@
 package app.prog.repository;
 
 import app.prog.model.AuthorEntity;
+import app.prog.model.CategoryEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface AuthorRepository extends JpaRepository<AuthorEntity, String> {
-    AuthorEntity findByName(String name);
+public interface CategoryRepository extends JpaRepository<CategoryEntity, Integer> {
 }
-

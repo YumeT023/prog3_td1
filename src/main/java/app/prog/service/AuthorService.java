@@ -13,9 +13,10 @@ import java.util.Optional;
 public class AuthorService {
     private final AuthorRepository repository;
 
-    public AuthorEntity getAuthorById(Integer id) {
-        return repository.getById(String.valueOf(id));
+    public AuthorEntity getAuthorByName(String authorName) {
+        return repository.findByName(authorName);
     }
+
     public List<AuthorEntity> getAuthors() {
         return repository.findAll();
     }
