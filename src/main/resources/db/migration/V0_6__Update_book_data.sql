@@ -1,0 +1,10 @@
+update book set author_id = 1 where book.id = 1;
+update book set author_id = 2 where book.id = 2;
+update book set author_id = 3 where book.id = 3;
+update book set author_id = 4 where book.id = 4;
+update book set author_id = 5 where book.id = 5;
+update book set author_id = 6 where book.id = 6;
+update book set author_id = 7 where book.id = 7;
+update book set author_id = 8 where book.id = 8;
+update book set author_id = 9 where book.id = 9;
+update book set author_id = 10 where book.id = 10;
